@@ -1,0 +1,107 @@
+{
+    "code": 0,
+    "message": "成功",
+    "request_id": "ff2f9ea9c5ef4df8968630afe30b7542",
+    "ts": 1672643096718,
+    "data": {
+        "panel": [
+            {
+                "href": "https://game.bilibili.com/blhx/ykcedbb/h5",
+                "title": "碧蓝航线",
+                "poster": "//i0.hdslb.com/bfs/game/f2726119665b7434e8006569435e5662b6445c36.png"
+            },
+            {
+                "href": "https://game.bilibili.com/gt/swim",
+                "title": "坎特伯雷公主与骑士唤醒冠军之剑的奇幻冒险",
+                "poster": "//i0.hdslb.com/bfs/game/c8a5f9ba45d89f961c1e85f949d6571ac9309a09.png"
+            },
+            {
+                "href": "https://game.bilibili.com/sklr3/",
+                "title": "时空猎人3",
+                "poster": "//i0.hdslb.com/bfs/game/14073d0252b80884335ebee91608257f25bec5ed.png"
+            }
+        ],
+        "list": [
+            {
+                "href": "https://www.biligame.com/detail/?id=109910",
+                "title": "使魔计划",
+                "poster": "//i0.hdslb.com/bfs/game/fb0046707fe70fd656289ea522ea3f04fabd8293.png"
+            },
+            {
+                "href": "https://www.biligame.com/detail/?id=108752",
+                "title": "黑暗笔录",
+                "poster": "//i0.hdslb.com/bfs/game/7b3d7f6159a688ba77a4c7a1e76220ea4444891a.png"
+            },
+            {
+                "href": "https://game.bilibili.com/sailingera/h5/",
+                "title": "风帆纪元",
+                "poster": "//i0.hdslb.com/bfs/game/737aba77e2c54fa20ac36e0695ec5c21fbcf4da4.png"
+            },
+            {
+                "href": "https://www.biligame.com/detail/?id=103009",
+                "title": "Apex英雄",
+                "poster": "//i0.hdslb.com/bfs/game/99560ab9097e72fad168addef77550c780477261.png"
+            },
+            {
+                "href": "https://www.biligame.com/detail/?id=107684",
+                "title": "尘白禁区",
+                "poster": "//i0.hdslb.com/bfs/game/b74ab08934d2bf9c8caa2c920926642eb3bbeef4.png"
+            },
+            {
+                "href": "https://www.biligame.com/detail/?id=107754",
+                "title": "螺旋圆舞曲2-蔷薇战争",
+                "poster": "//i0.hdslb.com/bfs/game/4d3f4ae4faa9ba3d84f749f581473ab9e4d5eed0.png"
+            },
+            {
+                "href": "https://www.biligame.com/detail/?id=107036",
+                "title": "巅峰极速",
+                "poster": "//i0.hdslb.com/bfs/game/7a71be3279b0413ae81cd4498ab6b9cac0bca794.png"
+            },
+            {
+                "href": "https://www.biligame.com/detail/?id=106588",
+                "title": "锚点降临",
+                "poster": "//i0.hdslb.com/bfs/game/6209e2bcf81f499f8fd256392ec56590ddfc8f11.png"
+            },
+            {
+                "href": "https://www.biligame.com/detail/?id=108261",
+                "title": "咏月风雅",
+                "poster": "//i0.hdslb.com/bfs/game/49bb5aa8b0a71edc6616c417e4a918748f60b1b5.png"
+            },
+            {
+                "href": "https://ktp.biligame.com/yy/",
+                "title": "巫师之昆特牌",
+                "poster": "//i0.hdslb.com/bfs/game/0f233825815fd67e40a8e6cc5c15402468b231e2.png"
+            },
+            {
+                "href": "https://www.biligame.com/detail/?id=107846",
+                "title": "神仙道3",
+                "poster": "//i0.hdslb.com/bfs/game/cf95ab6f737947333d19f506144c4647f0945b92.png"
+            },
+            {
+                "href": "https://www.biligame.com/detail/?id=109291",
+                "title": "代号：Dragon",
+                "poster": "//i0.hdslb.com/bfs/game/e65fd66983c462398c797d1e83ea885ac97dcad1.png"
+            },
+            {
+                "href": "https://www.biligame.com/detail/?id=108908",
+                "title": "摇光录：乱世公主",
+                "poster": "//i0.hdslb.com/bfs/game/2202a646409ce4644ef4a11ffe0fce0f4e836805.png"
+            },
+            {
+                "href": "https://www.biligame.com/detail/?id=108960",
+                "title": "双子迷途2",
+                "poster": "//i0.hdslb.com/bfs/game/9a8a5b1605f4699c8deef0e88117c5dd3b3e8103.png"
+            },
+            {
+                "href": "https://www.biligame.com/detail/?id=106777",
+                "title": "无序次元",
+                "poster": "//i0.hdslb.com/bfs/game/2fcb13a7fb225e2efdaf44858a4211888ec7bc25.png"
+            }
+        ],
+        "banner": {
+            "href": "https://game.bilibili.com/fgo/2023",
+            "title": "命运-冠位指定（Fate/GO）",
+            "poster": "//i0.hdslb.com/bfs/game/8326c078e8ae35d54de51c725047f70667a5be42.jpg"
+        }
+    }
+}
